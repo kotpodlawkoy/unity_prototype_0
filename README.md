@@ -5,7 +5,7 @@
 * Unity Editor v6000.2.11f1
 * Vim 9.1 с зависимостями:
   * OmniSharp LSP server
-  * Unity tool [kotpodlawkoy sln generator][https://github.com/kotpodlawkoy/kotpodlawkoy.sln.csproj.generator]
+  * Unity tool [kotpodlawkoy sln generator](https://github.com/kotpodlawkoy/kotpodlawkoy.sln.csproj.generator)
  
 # Скриншоты
 
