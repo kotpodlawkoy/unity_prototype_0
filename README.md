@@ -1,5 +1,5 @@
 # Описание
-**Проект соответствует [Unity Essentials roadmap][https://learn.unity.com/pathway/unity-essentials] на Unity Learn**
+**Проект соответствует [Unity Essentials roadmap](https://learn.unity.com/pathway/unity-essentials) на Unity Learn**
 
 # Использованные технологии
 * Unity Editor v6000.2.11f1
