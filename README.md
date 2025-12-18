@@ -7,7 +7,8 @@
   * OmniSharp LSP server
   * Unity tool [kotpodlawkoy sln generator](https://github.com/kotpodlawkoy/kotpodlawkoy.sln.csproj.generator)
  
-# Скриншоты
+# Ссылка на билд чтобы посмотреть-поиграть
+[Паиграт](https://play.unity.com/api/v1/games/game/b32151ac-3321-4d65-a645-18b2744e31ca/build/latest/frame)
 
 
 # Проведённая работа
