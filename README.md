@@ -8,7 +8,7 @@
   * Unity tool [kotpodlawkoy sln generator](https://github.com/kotpodlawkoy/kotpodlawkoy.sln.csproj.generator)
  
 # Ссылка на билд чтобы посмотреть-поиграть
-[Паиграт](https://play.unity.com/en/games/b32151ac-3321-4d65-a645-18b2744e31ca/kotpodlawkoyessentials1)
+[Паиграт](https://play.unity.com/en/games/b32151ac-3321-4d65-a645-18b2744e31ca/kotpodlawkoyessentials1) (**Нажмите <Esc> для выхода в главное меню**)
 
 
 # Проведённая работа
